@@ -6,6 +6,6 @@ Alcune funzioni base del gioco fornite dal Prof. Pietro di Lena
 A small copy of the famous 70's game PONG, developed in C.
 Some basic game features provided by Prof. Pietro di Lena
 
-#Made by
+# Made by
 Angelo Parrinello
 Prof. Pietro di Lena 
